@@ -1,0 +1,26 @@
+body {
+    background-color: #39004d;
+    color: antiquewhite;
+    font-size: 16px;
+}
+
+p{
+    color: #00e600;
+}
+
+h1{
+    font-size: 70px;
+    color: pink;
+}
+
+div{
+    background-color: palevioletred;
+    width: 500px;
+    height: 500px;
+}
+
+span {
+    color: yellow;
+    font-size: 40px;
+    font-weight: bold;
+}
